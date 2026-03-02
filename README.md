@@ -1,4 +1,4 @@
-revoDocs – Digitale Zeugnissoftware für Schulen
+revoDocs – Digitale Zeugnissoftware/Zeugnisanwendung/Zeugnisprogramm für Schulen
 
 revoDocs ist eine moderne digitale Lösung zur Erstellung, Verwaltung und Dokumentation von Schulzeugnissen. Die Software wurde speziell für Schulen und Bildungseinrichtungen entwickelt, um den gesamten Prozess der Zeugniserstellung effizient, strukturiert und rechtskonform abzubilden.
 
