@@ -1,8 +1,8 @@
-revoDocs – Digitale Zeugnissoftware/Zeugnisanwendung/Zeugnisprogramm für Schulen
+revodocs – Digitale Zeugnissoftware/Zeugnisanwendung/Zeugnisprogramm für Schulen
 
-revoDocs ist eine moderne digitale Lösung zur Erstellung, Verwaltung und Dokumentation von Schulzeugnissen. Die Software wurde speziell für Schulen und Bildungseinrichtungen entwickelt, um den gesamten Prozess der Zeugniserstellung effizient, strukturiert und rechtskonform abzubilden.
+revodocs ist eine moderne digitale Lösung zur Erstellung, Verwaltung und Dokumentation von Schulzeugnissen. Die Software wurde speziell für Schulen und Bildungseinrichtungen entwickelt, um den gesamten Prozess der Zeugniserstellung effizient, strukturiert und rechtskonform abzubilden.
 
-Viele Schulen arbeiten noch mit veralteten, manuellen oder isolierten Systemen zur Notenverwaltung und Dokumentation. revoDocs ersetzt diese Prozesse durch eine zentrale, digitale Plattform, die Arbeitsabläufe vereinfacht, Zeit spart und Fehler reduziert.
+Viele Schulen arbeiten noch mit veralteten, manuellen oder isolierten Systemen zur Notenverwaltung und Dokumentation. revodocs ersetzt diese Prozesse durch eine zentrale, digitale Plattform, die Arbeitsabläufe vereinfacht, Zeit spart und Fehler reduziert.
 
 Funktionen und Vorteile
 
@@ -20,7 +20,7 @@ Unterstützung moderner, digitaler Schulprozesse
 
 Zielgruppe
 
-revoDocs richtet sich an:
+revodocs richtet sich an:
 
 Schulen aller Schulformen
 
@@ -30,18 +30,18 @@ Schulverwaltungen und Schulleitungen
 
 Bildungseinrichtungen in Deutschland, Österreich und der Schweiz
 
-Warum revoDocs
+Warum revodocs
 
-Mit revoDocs können Schulen ihre Zeugnisprozesse digitalisieren und effizient verwalten. Die Software unterstützt Schulen dabei, administrative Aufgaben zu reduzieren und sich stärker auf ihre pädagogische Arbeit zu konzentrieren.
+Mit revodocs können Schulen ihre Zeugnisprozesse digitalisieren und effizient verwalten. Die Software unterstützt Schulen dabei, administrative Aufgaben zu reduzieren und sich stärker auf ihre pädagogische Arbeit zu konzentrieren.
 
-revoDocs wurde speziell für den Einsatz im Bildungsbereich entwickelt und berücksichtigt die organisatorischen Anforderungen moderner Schulen.
+revodocs wurde speziell für den Einsatz im Bildungsbereich entwickelt und berücksichtigt die organisatorischen Anforderungen moderner Schulen.
 
 Weitere Informationen
 
-Mehr Informationen zur digitalen Zeugnissoftware revoDocs:
+Mehr Informationen zur digitalen Zeugnissoftware revodocs:
 
 🌐 https://revodocs.de
 
 Über dieses Repository
 
-Dieses Repository enthält öffentliche Informationen und Dokumentation zum revoDocs-Projekt sowie allgemeine technische und organisatorische Informationen zur Plattform.
+Dieses Repository enthält öffentliche Informationen und Dokumentation zum revodocs-Projekt sowie allgemeine technische und organisatorische Informationen zur Plattform.
